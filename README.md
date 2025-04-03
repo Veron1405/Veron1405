@@ -1,16 +1,13 @@
-## Hi there 👋
+@-moz-document domain("github.com") {
+  .Box, .header, .hx_hit-search-result {
+    background: rgba(255, 255, 255, 0.1) !important;
+    backdrop-filter: blur(10px);
+    border-radius: 15px !important;
+    border: 1px solid rgba(255, 255, 255, 0.2);
+  }
 
-<!--
-**Veron1405/Veron1405** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  body {
+    background: linear-gradient(135deg, #1f1c2c, #928dab) !important;
+    color: #fff !important;
+  }
+}
