@@ -38,3 +38,5 @@ SANTOS, EAGLES AND CLIPPERS!
 <br><p align="centre"><b>Contagem de Visitas</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/Veron1405}/count.svg" /></p> 
 <br></div>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="1000" height="170">
