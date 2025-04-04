@@ -1,4 +1,4 @@
-<img src="https://user-images.githubusercontent.com/74038190/213760718-ca064723-1c29-4b82-985c-aadc7f57c090.gif" width="1000">
+<img src="https://user-images.githubusercontent.com/74038190/213760718-ca064723-1c29-4b82-985c-aadc7f57c090.gif" width="1000" height="250">
 
 ## Hi, i am Leonardo Veron! 
 SANTOS, EAGLES AND CLIPPERS!
@@ -39,4 +39,4 @@ SANTOS, EAGLES AND CLIPPERS!
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/Veron1405}/count.svg" /></p> 
 <br></div>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="1000" height="170">
+<img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="1000" height="230">
