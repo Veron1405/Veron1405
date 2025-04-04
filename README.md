@@ -1,5 +1,5 @@
 ## Hi, i am Leonardo Veron! 
-My mind writes, my code translates.
+SANTOS, EAGLES AND CLIPPERS!
 
 <div>
   <a href="https://github.com/luuizaribass">
