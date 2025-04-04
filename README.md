@@ -2,7 +2,6 @@
 
 ## Hi, i am Leonardo Veron! 
 SANTOS, EAGLES AND CLIPPERS!
-
 <div>
   <a href="https://github.com/luuizaribass">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Veron1405&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>   
@@ -35,7 +34,7 @@ SANTOS, EAGLES AND CLIPPERS!
 </div>
 
 <div align="center">
-<br><p align="centre"><b>Contagem de Visitas</b></p>  
+<br><p align="center"><b>Contagem de Visitas</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/Veron1405}/count.svg" /></p> 
 <br></div>
 
