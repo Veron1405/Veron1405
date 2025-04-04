@@ -1,4 +1,4 @@
-## Hi, i am Maria Luiza Ribas! ✮
+## Hi, i am Leonardo Veron! 
 My mind writes, my code translates.
 
 <div>
@@ -36,5 +36,5 @@ My mind writes, my code translates.
 
 <div align="center">
 <br><p align="centre"><b>Contagem de Visitas</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/isaqkee}/count.svg" /></p> 
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/Veron1405}/count.svg" /></p> 
 <br></div>
