@@ -31,10 +31,3 @@
   <a href = "mailto:leonardoveron1405@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/leonardo-veron-dias-b08612356/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
-
-<div align="center">
-<br><p align="center"><b>Contagem de Visitas</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/Veron1405}/count.svg" /></p> 
-<br></div>
-
-
