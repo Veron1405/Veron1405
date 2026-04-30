@@ -1,7 +1,7 @@
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/0db32290-c193-4b32-95dc-413ce9e446a5" height="320" width="850">
 
 ## Hi, i am Leonardo Veron! 
-SANTOS, EAGLES AND CLIPPERS!
+
 <div>
   <a href="https://github.com/luuizaribass">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Veron1405&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>   
